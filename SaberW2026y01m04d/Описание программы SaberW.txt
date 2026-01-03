@@ -1,0 +1,9 @@
+Переведи на английский описание:
+Программа SaberW.
+Эта программа позволяет сжимать текст и отправлять его в чат к нейросети. Нейросеть расшифровывает сжатый текст по словарю. Эта программа SaberW позволит передать нейросети больше текста и сэкономит контекстное окно.
+
+
+____
+**SaberW Program**
+
+SaberW is a program that compresses text for sending to neural network chats. The neural network decodes the compressed text using a dictionary. SaberW allows you to send more text to the neural network and saves context window space.

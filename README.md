@@ -26,6 +26,12 @@ Chats: DeepSeek, Perplexity standard.
 Program written in Java. Wrapped with Launch4j program.
 Wrapper = EXE file. Executable for Windows.
 
+**Third-party products:** this project uses/contains third-party products
+(Launch4j by Grzegorz Kubyś, MIT License; Java SE runtime by Oracle, GPL v2
+with Classpath Exception). Author and license information is preserved in
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md) to comply with copyright and
+license terms.
+
 **This is instructions for users who launched**
 **SaberW Text Compressor v1.0**
 **Creator: me.**
